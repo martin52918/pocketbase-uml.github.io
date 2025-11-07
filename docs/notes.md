@@ -17,3 +17,4 @@ Notes and usage details for pocketbase-uml.github.io.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
