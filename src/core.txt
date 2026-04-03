@@ -24,3 +24,4 @@ A free, open-source web application that generates UML diagrams based on PocketB
 # handle the edge case from the last release
 # guard against empty input
 # clarify the control flow
+# clarify the control flow
